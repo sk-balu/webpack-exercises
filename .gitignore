@@ -1,0 +1,6 @@
+asset-management/node_modules/
+getting-started/node_modules/
+output-management/node_modules/
+getting-started/package-lock.json
+asset-management/package-lock.json
+output-management/package-lock.json
