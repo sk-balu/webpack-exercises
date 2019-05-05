@@ -4,3 +4,5 @@ output-management/node_modules/
 getting-started/package-lock.json
 asset-management/package-lock.json
 output-management/package-lock.json
+development-mode/node_modules/
+development-mode/package-lock.json
